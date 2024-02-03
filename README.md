@@ -111,8 +111,9 @@ their web browser.
 * SDF Files to Upload
 	* caffeine-3D-structure-CT1001987571.sdf:
 		* SDF representation of Caffeine molecule
-	* water-3D-structure-CT1000292221.sdf
+	* water-3D-structure-CT1000292221.sdf:
 		* SDF representation of Caffeine molecule
+	* CID_31260.sdf
 
 
 ## Compiling
