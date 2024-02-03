@@ -67,7 +67,8 @@ their web browser.
 		* _molecule.so -- shared object library used by molecule.py to interface
 		  between C and Python
 		* clean -- deletes all .o, .so, and executable files
-	* 
+	* the PYTHON and PYLIB paths were generated for MacOS and may need to be changed to
+	  fit your personal computer and operating system
 
 ## Testing:
 
@@ -117,8 +118,7 @@ their web browser.
 ## Compiling
 
 Use "make" command with the given makefile.
-**Note:** Paths within the makefile may need to be changed to accomodate the 
-computer on which the application is running.
+**Note:** Refer to "Required Files" section: Paths within the makefile may need to be changed to accomodate the computer on which the application is running.
 
 ## Running
 
